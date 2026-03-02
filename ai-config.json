@@ -1,5 +1,5 @@
 {
-  "provider": "openai",
-  "apiKey": "your-openai-api-key-here",
+  "provider": "GigaChat",
+  "apiKey": "MDE5YmRhNTAtZWU4Yi03YTZiLTgzNWUtMDgxODUzOWY4MjkzOmE2ZGJiYmE5LTUyYTYtNDc3OC05MzRmLTNhMDRmZWY0Y2IwNA==",
   "model": "gpt-3.5-turbo"
 }
