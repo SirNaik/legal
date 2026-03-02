@@ -1,0 +1,5 @@
+{
+  "provider": "openai",
+  "apiKey": "your-openai-api-key-here",
+  "model": "gpt-3.5-turbo"
+}
